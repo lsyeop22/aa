@@ -1,0 +1,6 @@
+names:
+- front
+- back
+nc: 2
+train: C:\\Users\\USER\\Desktop\\2023DSC\\yolov5_6\\yolov5_6\\teeth_train_data\\train.txt
+val: C:\\Users\\USER\\Desktop\\2023DSC\\yolov5_6\\yolov5_6\\teeth_train_data\\valid.txt
